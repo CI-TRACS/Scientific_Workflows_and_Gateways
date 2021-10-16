@@ -1,3 +1,24 @@
+# Scientific Workflows & Gateways
+
+
+
+## Synopsis: 
+Introduction to science gateways for climate science including the Hawaii Climate Data Portal, Ike Wai Gateway, GeoEDF, etc for accessing data and running computational workflows.
+
+## Learning Outcomes:
+Demonstrate understanding the advantages and disadvantages of various workflow models, and determine which is most appropriate to their current research workflow. 
+Demonstrate ability to take exemplar climate science data and apply it to one or more appropriate gateway systems.
+
+## CI Tools:
+Hawaii Climate Data Portal
+Ike Wai Gateway
+GeoEDF
+Hydroshare.
+
+## Authors
+Jennifer Geis
+Jonathan Uejbe
+
 # FIXME Lesson title
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
