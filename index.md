@@ -13,7 +13,6 @@ FIXME: home page introduction
 > ## Prerequisites
 >
 > FIXME
-Hellp wpordld
 {: .prereq}
 
 {% include links.md %}
