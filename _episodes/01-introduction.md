@@ -3,7 +3,7 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "Key question (FIXME) Hello!"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
