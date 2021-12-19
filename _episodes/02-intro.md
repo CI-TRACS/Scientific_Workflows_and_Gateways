@@ -74,3 +74,5 @@ Workflow and science gateway technologies have been adopted by scientific commun
 Citations
 XSEDE
 Scientific Gateways Community Institute
+
+{% include links.md %}
