@@ -14,7 +14,7 @@ keypoints:
 - "Scientific workflows are computational processes which aid in the automation and managing of data-intensive computing tasks while also removing the direct handling of cyberinfrastructure complexities from users."
 ---
 
-## Motivation (Or is this "why are they important?" and add below?)
+## Motivation
 Many sciences have become data intensive, due to numerous simulations, digital collection methods and instrumentation producing many terabytes of data. Moreover new highly complex and massively large data sets are expected by novel and more complex scientific instruments and numerical simulations that will become available in the next decades.
 
 The handling, exploring, and using of these data to make scientific discoveries poses a challenge that requires the adoption of new approaches in organizing scientific collaboration and using computing and storage resources. To this extent scientific gateways and workflows have emerged as a paradigm for researchers to collaborate as well as formalize and structure complex scientific experiments in order to enable and accelerate scientific discoveries and reproducibility (cite VO-compliant workflows and science gateways).
