@@ -1,22 +1,4 @@
 ---
-title: "What is High Performance Computing (HPC)"
-teaching: 10
-exercises: 0
-questions:
-- "What is an HPC system?"
-- "What are the components of an HPC system?"
-objectives:
-- "Understand the general HPC system architecture"
-keypoints:
-- "High Performance Computing (HPC) typically involves connecting to very large computing systems elsewhere in the world."
-- "These systems can be used to do work that would either be impossible or much slower on smaller systems."
-
----
-
-
-## What Is an HPC System?
-
----
 title: "Introduction to Scientific Gateways and Workflows"
 teaching: 10
 exercises: 0
@@ -28,8 +10,9 @@ topics:
 objectives:
 - "Understand what scientific gateways and workflows are and benefits they provide researchers"
 keypoints:
-- "Scienctific gateways are online community spaces providing web-based resources for accessing data, software, computing services, and equipment specific to the needs of a research discipline.
+- "Scienctific gateways are online community spaces providing web-based resources for accessing data, software, computing services, and equipment specific to the needs of a research discipline."
 - "Scientific workflows are computational processes which aid in the automation and managing of data-intensive computing tasks while also removing the direct handling of cyberinfrastructure complexities from users."
+
 ---
 
 ## Motivation
