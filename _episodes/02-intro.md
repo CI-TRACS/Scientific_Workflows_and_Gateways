@@ -1,4 +1,22 @@
 ---
+title: "What is High Performance Computing (HPC)"
+teaching: 10
+exercises: 0
+questions:
+- "What is an HPC system?"
+- "What are the components of an HPC system?"
+objectives:
+- "Understand the general HPC system architecture"
+keypoints:
+- "High Performance Computing (HPC) typically involves connecting to very large computing systems elsewhere in the world."
+- "These systems can be used to do work that would either be impossible or much slower on smaller systems."
+
+---
+
+
+## What Is an HPC System?
+
+---
 title: "Introduction to Scientific Gateways and Workflows"
 teaching: 10
 exercises: 0
