@@ -62,6 +62,7 @@ In the context of gateways, computational processes supported by gateways are or
 > 
 > These benefits save the researcher the time otherwise needed to learn a programming language.
 
+{: .callout}
 
 ## Why are scientific gateways and workflows important?
 As data-intensive research continues to be a substantial portion of research interest, cyberinfrastructure and access to it helps with data management plans that more commonly must be satisfied. Some funding agencies expect research grants have attached data management plans to proposals to ensure the science does not disappear and proper dissemination of research occurs. The benefit to the researcher is the same dissemination indicating the analysis performed and how conclusions were reached. This can lead to further collaborations, further funding their research and extending their work. Data management plans have the added benefit of helping scientists keep data resources organized. 
