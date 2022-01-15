@@ -51,7 +51,6 @@ Quantitatively complex science often consists of numerous interconnected computa
 In the context of gateways, computational processes supported by gateways are organized as scientific workflows that explicitly specify dependencies among underlying tasks for orchestrating distributed resources (such as clusters, grids or clouds) appropriately.
 (VO-compliant workflows and science gateways)
 
-
 > ## Benefits of a scientific workflow
 >
 > Workflows have been adopted by scientific communities as valuable tools to perform data heavy computational tasks necessary for experimentation. Workflows 
@@ -61,7 +60,7 @@ In the context of gateways, computational processes supported by gateways are or
 > - providing simple to use data pipeline codes which requires minimal knowledge base to perform analysis
 > 
 > These benefits save the researcher the time otherwise needed to learn a programming language.
-
+> 
 {: .callout}
 
 ## Why are scientific gateways and workflows important?
