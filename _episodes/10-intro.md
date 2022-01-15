@@ -52,7 +52,7 @@ In the context of gateways, computational processes supported by gateways are or
 (VO-compliant workflows and science gateways)
 
 
-> ### Benefits of a scientific workflow
+> ## Benefits of a scientific workflow
 >
 > Workflows have been adopted by scientific communities as valuable tools to perform data heavy computational tasks necessary for experimentation. Workflows 
 > enable researchers to perform data analysis and computation:
