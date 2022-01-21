@@ -9,14 +9,15 @@ topics:
 objectives:
 - "To allow the audience some experience using a scientific gateway and existing workflows"
 - "To introduce attendees to HydroShare" 
+keypoints:
+- "Scientific gateways like HydroShare, give researchers access to domain specific data sets and workflows which can help in the analysis and visualization of data."
+- "Gateways provide researchers with a way to collaborate on research."
+
 
 ---
 
-keypoints:
-- "Scienctific gateways like HydroShare, give researchers access to domain specific data sets and workflows which can help in the analysis and visualization of data."
-- "Gateways provide researchers with a way to collaborate on research."
-
 ## Exploring HydroShare
+
 What you can do with HydroShare
 - Share your data and models with colleagues
 - Manage who has access to the content that you share
