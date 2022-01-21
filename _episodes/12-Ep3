@@ -1,0 +1,38 @@
+---
+
+title: "HydroShare: A Science Gateway for Hydrological Sciences" 
+teaching: 15 exercises: 0 
+topics:
+- "Introduction to HydroShare"
+- "HydroShare Services and Features"
+- "In-Depth Look at Discovering Resources in HydroShare"
+objectives:
+- "To allow the audience some experience using a scientific gateway and existing workflows"
+- "To introduce attendees to HydroShare" 
+
+---
+
+keypoints:
+- "Scienctific gateways like HydroShare, give researchers access to domain specific data sets and workflows which can help in the analysis and visualization of data."
+- "Gateways provide researchers with a way to collaborate on research."
+
+## Exploring HydroShare
+What you can do with HydroShare
+- Share your data and models with colleagues
+- Manage who has access to the content that you share
+- Share, access, visualize and manipulate a broad set of hydrologic data types and models
+- Use the web services API to program automated and client access
+- Publish data and models to meet the requirements of your data management plan
+- Discover and access data and models published by others
+- Use web apps to visualize, analyze and run models on data in HydroShare
+- HydroShare allows you to create resources. Define what resources are and how they are useful.
+
+## Discover
+Discover resources in hydroshare using keywords that may pertain to topics of interest to you.
+
+## Collaborate
+Collaborate by making groups and define what groups are, Also explain how you can collaborate by creating communities which is a group of groups. Explain how you can give collaborators in your group to view data and access your resources.
+
+## Web Apps
+HydroShare apps allow you to visualize, analyze, and work with resources (data and models) in HydroShare. Apps are hosted on separate web servers from the HydroShare website (www.hydroshare.org) and access HydroShare resources using web services via the REST applications programmers interface (API). Anyone can write an app an then create a "Web App" resource that holds the configuration information for launching the App from HydroShare. This page lists CUAHSI approved web apps that are supported as part of HydroShare.
+
