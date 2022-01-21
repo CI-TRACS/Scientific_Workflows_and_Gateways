@@ -17,7 +17,11 @@ keypoints:
 ---
 
 ## Exploring HydroShare
-Screen Shot 2022-01-21 at 1.26.52 PM.png
+
+  {% include figure.html url="" max-width="50%"
+   file="/fig/Screen Shot 2022-01-21 at 1.26.52 PM.png"
+   alt="Connect to cluster" caption="" %}
+
 What you can do with HydroShare
 - Share your data and models with colleagues
 - Manage who has access to the content that you share
