@@ -10,7 +10,7 @@ topics:
 objectives:
 - "Understand what scientific gateways and workflows are and benefits they provide researchers"
 keypoints:
-- "Scienctific gateways are online community spaces providing web-based resources for accessing data, software, computing services, and equipment specific to the needs of a research discipline."
+- "Scientific gateways are online community spaces providing web-based resources for accessing data, software, computing services, and equipment specific to the needs of a research discipline."
 - "Scientific workflows are computational processes which aid in the automation and managing of data-intensive computing tasks while also removing the direct handling of cyberinfrastructure complexities from users."
 
 ---
