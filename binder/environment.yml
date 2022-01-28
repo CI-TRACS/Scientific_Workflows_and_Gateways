@@ -1,0 +1,9 @@
+name: workflows-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - hydroshare_on_jupyter
