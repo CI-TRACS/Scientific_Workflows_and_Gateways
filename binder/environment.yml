@@ -6,4 +6,3 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - hydroshare_on_jupyter
