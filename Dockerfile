@@ -3,8 +3,7 @@
 FROM python:3.9-slim
 
 # install the notebook package
-RUN pip install --no-cache --upgrade pip && \
-    pip install --no-cache notebook jupyterlab hydroshare_on_jupyter
+RUN pip install --no-cache-dir notebook jupyterlab hydroshare_on_jupyter
 
 #RUN pip install --no-cache-dir jupyterlab hydroshare_on_jupyter
 #RUN pip install git+https://github.com/tapis-project/tapipy#egg=tapipy
