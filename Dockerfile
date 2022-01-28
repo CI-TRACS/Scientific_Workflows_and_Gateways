@@ -5,15 +5,16 @@ RUN pip install --no-cache-dir jupyterlab hydroshare_on_jupyter
 #RUN pip install git+https://github.com/tapis-project/tapipy#egg=tapipy
 #RUN useradd tapis
 
-ADD tapis_notebook.ipynb /home/tapis/
-ADD tapis_streams_notebook.ipynb /home/tapis/
-ADD images /home/tapis/images
-ADD actor/* /home/tapis/actor/
-RUN chown -R tapis:tapis /home/tapis
+#ADD tapis_notebook.ipynb /home/tapis/
+#ADD tapis_streams_notebook.ipynb /home/tapis/
+#ADD images /home/tapis/images
+#ADD actor/* /home/tapis/actor/
+#RUN chown -R tapis:tapis /home/tapis
+RUN hydroshare_on_jupyter configure
 
-USER tapis
-WORKDIR /home/tapis
-ENTRYPOINT ["jupyter", "notebook", "--ip=0.0.0.0","tapis_notebook.ipynb"]
+#USER tapis
+WORKDIR ~/hydroshare
+ENTRYPOINT ["jupyter", "notebook", "--ip=0.0.0.0","notebooks/01-introduction.ipynb"]
 
 
 ## The following is from https://github.com/hydroshare/hydroshare_on_jupyter
