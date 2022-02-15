@@ -74,7 +74,8 @@ Gateways are substantial components of such data management plans and can satisf
 Workflow and science gateway technologies have been adopted by scientific communities as a valuable tool to carry out complex experiments. They offer the possibility to perform computations for data analysis and simulations, whereas hiding details of the complex infrastructures underneath. 
 
 
-Much of the information used here was kindly provided by the following sources.
+Much of the information used here was kindly provided by the following cited sources.
+
 Citations
 - " John Towns, Timothy Cockerill, Maytal Dahan, Ian Foster, Kelly Gaither, Andrew Grimshaw, Victor Hazlewood, Scott Lathrop, Dave Lifka, Gregory D. Peterson, Ralph Roskies, J. Ray Scott, Nancy Wilkins-Diehr, "XSEDE: Accelerating Scientific Discovery", Computing in Science & Engineering, vol.16, no. 5, pp. 62-74, Sept.-Oct. 2014, doi:10.1109/MCSE.2014.80
 - "Scientific Gateways Community Institute. Retreived from https://sciencegateways.org"
