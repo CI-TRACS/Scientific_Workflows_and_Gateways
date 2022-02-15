@@ -7,6 +7,10 @@ topics:
 - "Introduction to Scientific Gateways"
 - "Introduction to Scientific Workflows"
 - "Importance of Science Gateways and Workflows"
+questions: 
+- "What is a scientific gateway?"
+- "What is a scientific workflow?"
+- "Why are scientific gateways and workflows important?"
 objectives:
 - "Understand what scientific gateways and workflows are and benefits they provide researchers"
 keypoints:
@@ -20,7 +24,7 @@ Many sciences have become data intensive, due to numerous simulations, digital c
 
 The handling, exploring, and using of these data to make scientific discoveries poses a challenge that requires the adoption of new approaches in organizing scientific collaboration and using computing and storage resources. To this extent scientific gateways and workflows have emerged as a paradigm for researchers to collaborate as well as formalize and structure complex scientific experiments in order to enable and accelerate scientific discoveries and reproducibility (cite VO-compliant workflows and science gateways).
 
-Furthermore, **add stuff from doc here about data management plans for grants and citing data for publications increasingly becoming the norm. 
+Furthermore, funding agencies are more likely requiring data management plans to accompany grant applications while citing data for publications for science reproducibility is becoming the norm.
 
 Scientific gateways and workflows combine to provide a framework to enable research communities with comuputing resources to orchestrate scientific applications and tools via web-based graphical user interfaces (cite VO-compliant workflows and science gateways).
 
@@ -69,11 +73,12 @@ As data-intensive research continues to be a substantial portion of research int
 Gateways are substantial components of such data management plans and can satisfy many of the associated requirements data management plans must meet. Furthermore, gateways provide typically give researchers the ability to publish their data sets further promoting the reproducibility of science. In fact, many pubications now require data sets be cited. Most gateways can serve this need by providing a citable digital object identifier, DOI.
 
 Workflow and science gateway technologies have been adopted by scientific communities as a valuable tool to carry out complex experiments. They offer the possibility to perform computations for data analysis and simulations, whereas hiding details of the complex infrastructures underneath. 
-(VO-compliant workflows and science gateways)
+
 
 
 Citations
-XSEDE
-Scientific Gateways Community Institute
+- " John Towns, Timothy Cockerill, Maytal Dahan, Ian Foster, Kelly Gaither, Andrew Grimshaw, Victor Hazlewood, Scott Lathrop, Dave Lifka, Gregory D. Peterson, Ralph Roskies, J. Ray Scott, Nancy Wilkins-Diehr, "XSEDE: Accelerating Scientific Discovery", Computing in Science & Engineering, vol.16, no. 5, pp. 62-74, Sept.-Oct. 2014, doi:10.1109/MCSE.2014.80
+- "Scientific Gateways Community Institute. Retreived from https://sciencegateways.org"
+- "Castelli, Giuliano, et al. "VO-compliant workflows and science gateways." Astronomy and Computing 11 (2015): 102-108."
 
 {% include links.md %}
