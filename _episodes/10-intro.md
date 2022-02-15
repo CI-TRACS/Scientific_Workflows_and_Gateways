@@ -46,7 +46,8 @@ More succinctly, science gateways are portals to computational and data services
 >  - Tools designed to support scientific workflows
 >  - Analytic and visualization software
 >  - Education modules   
-> (https://www.xsede.org/ecosystem/science-gateways)
+> 
+{: .callout}
 
 ## What is a scientific workflow?
 
