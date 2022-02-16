@@ -79,7 +79,7 @@ Much of the information used here was kindly provided by the following cited sou
 
 Citations
 - " John Towns, Timothy Cockerill, Maytal Dahan, Ian Foster, Kelly Gaither, Andrew Grimshaw, Victor Hazlewood, Scott Lathrop, Dave Lifka, Gregory D. Peterson, Ralph Roskies, J. Ray Scott, Nancy Wilkins-Diehr, "XSEDE: Accelerating Scientific Discovery", Computing in Science & Engineering, vol.16, no. 5, pp. 62-74, Sept.-Oct. 2014, doi:10.1109/MCSE.2014.80
-- "Scientific Gateways Community Institute. Retreived from https://sciencegateways.org"
+- "Scientific Gateways Community Institute. Retrieved from https://sciencegateways.org"
 - "Castelli, Giuliano, et al. "VO-compliant workflows and science gateways." Astronomy and Computing 11 (2015): 102-108."
 - "Deelman, Ewa, et al. "The future of scientific workflows." The International Journal of High Performance Computing Applications 32.1 (2018): 159-175."
 
