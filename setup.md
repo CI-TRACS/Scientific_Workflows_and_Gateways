@@ -2,6 +2,8 @@
 title: Setup
 ---
 
+
+
 > ## Getting a Hydroshare Account
 > 1. Go to  https://www.hydroshare.org/
 > 2. Click on ‘Sign Up Now’
@@ -12,6 +14,6 @@ title: Setup
 > 7. Scroll down to CUAHSI JupyterHub → Click on the icon, review the Terms of Use. Agree and Sign in with Hydroshare.  
 > 8. Click that says ‘Ask to Join’ and wait for email confirmation that you have been added to the group. 
 > 
-
 {: .callout}
+
 {% include links.md %}
