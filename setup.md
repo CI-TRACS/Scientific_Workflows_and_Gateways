@@ -5,7 +5,7 @@ title: Setup
 
 
 > ## Getting a Hydroshare Account
-> 1. Go to  https://www.hydroshare.org/
+> 1. Go to  [https://www.hydroshare.org/](https://www.hydroshare.org/)
 > 2. Click on ‘Sign Up Now’
 > 3. Fill out your information: the more information you provide on your profile, the more likely Hydroshare will approve your account quickly.
 > 4. After you set-up your account, it goes to your personal main page.
