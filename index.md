@@ -13,7 +13,7 @@ In this workshop, discussions will include an introduction to scientific gateway
 >
 {: .prereq}
 
-By the end of this workshop, students will know how to:
+By the end of this workshop, students will:
 
 * Have a basic understanding of scientific workflows and gateways.
 * Have a basic understanding of resources which can help them discover and develop new scientific gateways.
