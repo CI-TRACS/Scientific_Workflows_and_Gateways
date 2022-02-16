@@ -3,25 +3,23 @@ layout: lesson
 root: .
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-
-This workshop focuses on the utilization of High performance Computing (HPC) clusters, such as Mana, for deep learning tasks.  Attendees will also learn how to use Jupyter Lab on Mana via Open OnDemand, the benefits of using GPUs over just CPUs for deep learning applications and how staging data the correct file system can improve performance of deep learning jobs.
+In this workshop, discussions will include an introduction to scientific gateways and workflows. Attendees will learn how gateways and workflows may benefit their research and about some existing gateways that may be suitable for their scientific interests. For the hands-on portion, attendees will access and use HydroShare, a gateway built for water-resource sciences. Activities will include navigating HydroShare and its available tools and web apps and creating a data resource which can be used for collaboration with others in the scientific community. Attendees will also use an existing workflow to perform computational tasks on some data to demonstrate the ease and benefits of using community-developed tools for data analysis. 
 
 
 > ## Prerequisites
 >
-> * Command line experience. We recommend the participants to go through [shell-novice](https://swcarpentry.github.io/shell-novice/) if you are new to the command-line 
-> * Have an account on Mana 
-> * Have UH Duo/MFA enabled
-> * Have a modern web browser
+> * Create a HydroShare account. 
+> * In HydroShare, search for and request to join CUAHSI JupyterHub web app group
+>
 {: .prereq}
 
 By the end of this workshop, students will know how to:
 
-* Have a basic understanding of how to access Open OnDemand and use Jupyter Lab on Mana
-* Have a basic understanding of how to request GPUs and utilize them for deep learning tasks
-* Have a basic understanding of the performance difference between CPU and GPU for deep learning
-* Have a basic understanding of different types of file system found on HPC clusters
-* Have a basic understanding of how correct file system choice affect application performance
+* Have a basic understanding of scientific workflows and gateways.
+* Have a basic understanding of resources which can help them discover and develop new scientific gateways.
+* Have a basic understanding of how to explore and use a scientific gateway. This workshop will use HydroShare, a data management solution for hydrological data, models, and code.
+* Have a basic understanding of how to use HydroSHare's tools and web apps to create a data resource, carry out computational tasks on data using existing workflows, and share that resource with other researchers in the community.
+
 
 
 > ## Getting Started
