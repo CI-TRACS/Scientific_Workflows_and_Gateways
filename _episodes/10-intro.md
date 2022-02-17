@@ -22,11 +22,11 @@ keypoints:
 ## Motivation
 Many sciences have become data intensive, due to numerous simulations, digital collection methods and instrumentation producing many terabytes of data. Moreover new highly complex and massively large data sets are expected by novel and more complex scientific instruments and numerical simulations that will become available in the next decades.
 
-The handling, exploring, and using of these data to make scientific discoveries poses a challenge that requires the adoption of new approaches in organizing scientific collaboration and using computing and storage resources. To this extent scientific gateways and workflows have emerged as a paradigm for researchers to collaborate as well as formalize and structure complex scientific experiments in order to enable and accelerate scientific discoveries and reproducibility (cite VO-compliant workflows and science gateways).
+The handling, exploring, and using of these data to make scientific discoveries poses a challenge that requires the adoption of new approaches in organizing scientific collaboration and using computing and storage resources. To this extent scientific gateways and workflows have emerged as a paradigm for researchers to collaborate as well as formalize and structure complex scientific experiments in order to enable and accelerate scientific discoveries and reproducibility.
 
 Furthermore, funding agencies are more likely requiring data management plans to accompany grant applications while citing data for publications for science reproducibility is becoming the norm.
 
-Scientific gateways and workflows combine to provide a framework to enable research communities with comuputing resources to orchestrate scientific applications and tools via web-based graphical user interfaces (cite VO-compliant workflows and science gateways).
+Scientific gateways and workflows combine to provide a framework to enable research communities with computing resources to orchestrate scientific applications and tools via web-based graphical user interfaces.
 
 
 ## What is a Scientific Gateway?
@@ -39,7 +39,7 @@ More succinctly, science gateways are portals to computational and data services
 >  - Gateways enable researchers to focus on their scientific research efforts and less on setting up the cyberinfrastructure they would need to carry out heavy computation.
 >  - Provide access to large community datasets
 >  - Promote the disseminating of research knowledge and reproducible science
->  - They foster collaborations amongst researchers and scientific communities
+>  - Foster collaborations amongst researchers and scientific communities
 >
 > Gateways usually provide a number of features such as:
 >  - High-performance computing resources
@@ -55,7 +55,7 @@ Quantitatively complex science often consists of numerous interconnected computa
 
 In the context of gateways, computational processes supported by gateways are organized as scientific workflows that explicitly specify dependencies among underlying tasks for orchestrating distributed resources (such as clusters, grids or clouds) appropriately.
 
-> ## Benefits of a scientific workflows
+> ## Benefits of scientific workflows
 >
 > Workflows have been adopted by scientific communities as valuable tools to perform data heavy computational tasks necessary for experimentation. Workflows 
 > enable researchers to perform data analysis and computation:
@@ -68,9 +68,9 @@ In the context of gateways, computational processes supported by gateways are or
 {: .callout}
 
 ## Why are scientific gateways and workflows important?
-As data-intensive research continues to be a substantial portion of research interest, cyberinfrastructure and access to it helps with data management plans that more commonly must be satisfied. Some funding agencies expect research grants have attached data management plans to proposals to ensure the science does not disappear and proper dissemination of research occurs. The benefit to the researcher is the same dissemination indicating the analysis performed and how conclusions were reached. This can lead to further collaborations, further funding their research and extending their work. Data management plans have the added benefit of helping scientists keep data resources organized. 
+As data-intensive research continues to be a substantial portion of research interest, cyberinfrastructure and access to it helps with data management plans that more commonly must be satisfied. Some funding agencies expect research grants have attached data management plans to proposals to ensure the data does not disappear and proper dissemination of research occurs. The benefit to the researcher is the same dissemination indicating the analysis performed and how conclusions were reached. This can lead to further collaborations, further funding their research and extending their work. Data management plans have the added benefit of helping scientists keep data resources organized. 
 
-Gateways are substantial components of such data management plans and can satisfy many of the associated requirements data management plans must meet. Furthermore, gateways typically give researchers the ability to publish their data sets further promoting the reproducibility of science. In fact, many pubications now require data sets be cited. Most gateways can serve this need by providing a citable digital object identifier, DOI.
+Gateways are substantial components of such data management plans and can satisfy many of the associated requirements data management plans must meet. Furthermore, gateways typically give researchers the ability to publish their data sets further promoting the reproducibility of science. In fact, many publications now require data sets be cited. Most gateways can serve this need by providing a citable digital object identifier, DOI.
 
 Workflow and science gateway technologies have been adopted by scientific communities as a valuable tool to carry out complex experiments. They offer the possibility to perform computations for data analysis and simulations, whereas hiding details of the complex infrastructures underneath. 
 
