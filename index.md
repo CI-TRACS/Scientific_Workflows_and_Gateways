@@ -16,9 +16,9 @@ In this workshop, discussions will include an introduction to scientific gateway
 By the end of this workshop, students will:
 
 * Have a basic understanding of scientific workflows and gateways.
-* Have a basic understanding of resources which can help them discover and develop new scientific gateways.
+* Have a basic understanding of resources which can help them discover and use new scientific gateways.
 * Have a basic understanding of how to explore and use a scientific gateway. This workshop will use HydroShare, a data management solution for hydrological data, models, and code.
-* Have a basic understanding of how to use HydroSHare's tools and web apps to create a data resource, carry out computational tasks on data using existing workflows, and share that resource with other researchers in the community.
+* Have a basic understanding of how to use HydroShare's tools and web apps to create a data resource, carry out computational tasks on data using existing workflows, and share that resource with other researchers in the community.
 
 
 
