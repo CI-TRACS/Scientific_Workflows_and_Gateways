@@ -41,11 +41,6 @@ More succinctly, science gateways are portals to computational and data services
 >  - Promote the disseminating of research knowledge and reproducible science
 >  - Foster collaborations amongst researchers and scientific communities
 >
-> Gateways usually provide a number of features such as:
->  - High-performance computing resources
->  - Tools designed to support scientific workflows
->  - Analytic and visualization software
->  - Education modules   
 > 
 {: .callout}
 
